@@ -1,0 +1,2 @@
+# Requires: future-potential
+# (Not available on PyPI)
